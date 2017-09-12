@@ -151,8 +151,9 @@ The way you use ***WAI-ARIA*** in your pages are through attributes assigned to 
 
 - `aria-*` attributes - defines the state and properties of interactive elements
 
-e.g.:
-    <div role="tab"><h2>heading tab</h2></div>
+  e.g.:
+
+      <div role="tab"><h2>heading tab</h2></div>
 
 Rules to follow when deciding to use WAI-ARIA to improve accessibility:
 
